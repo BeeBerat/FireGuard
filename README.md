@@ -19,6 +19,6 @@ Added 2 new things in this version:
 Language folder and language files have been added, you can edit these files as you wish.
 
 Added AuthMeReloaded Support, your players will enter their passwords first
-and then it will authenticate.s
+and then it will authenticate.
 
 
